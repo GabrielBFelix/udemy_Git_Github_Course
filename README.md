@@ -2,6 +2,6 @@
 
 this is a test
 
-this is bound to cause trouble!
+this is a really awesome website
 
 ##ENDING README
