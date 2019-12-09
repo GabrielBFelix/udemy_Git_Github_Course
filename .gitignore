@@ -1,3 +1,6 @@
 *.log
 *.orig
 *.md
+
+# Mac OS temp files
+.DS_Store
